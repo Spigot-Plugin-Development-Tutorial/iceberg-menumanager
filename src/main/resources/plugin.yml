@@ -1,0 +1,7 @@
+name: IcebergMenuManagerModule
+version: ${project.version}
+main: me.kodysimpson.icebergmenumanagermodule.IcebergMenuManagerModule
+api-version: 1.16
+commands:
+  iceberg:
+    description: Do stuff
